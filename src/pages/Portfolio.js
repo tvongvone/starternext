@@ -2,7 +2,7 @@ import React from 'react'
 
 const Portfolio = () => {
   return (
-    <div>Portfolio</div>
+    <div>Provide projects links and descriptions</div>
   )
 }
 
