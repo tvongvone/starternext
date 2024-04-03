@@ -1,12 +1,12 @@
-import React from 'react'
+import React, {useEffect, useState } from 'react'
 import About from './About'
+import {Route, Switch} from 'react-router-dom'
 
 function index() {
   return (
-    <div className="root">
-        Hello there
-    <About />
-    </div>
+    <Switch>
+      <Route path></Route>
+    </Switch>
   )
 }
 
