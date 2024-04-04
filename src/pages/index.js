@@ -5,7 +5,9 @@ import {Route, Switch} from 'react-router-dom'
 function index() {
   return (
     <Switch>
-      <Route path></Route>
+      <Route path="/" exact>
+
+      </Route>
     </Switch>
   )
 }
