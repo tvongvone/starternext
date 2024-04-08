@@ -1,9 +1,9 @@
 import React from 'react'
 
-const pages = () => {
+const AllPosts = () => {
   return (
     <div>All Posts</div>
   )
 }
 
-export default pages
+export default AllPosts
