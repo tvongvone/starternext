@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
       <div>
-        This application will be used to practice tailwind and using react js
+        This application will be used to practice tailwind and using react js.
 
       </div>
     </div>
